@@ -17,8 +17,6 @@ Run the `.exe` file to start the application.
 
 ## 📸 Overview
  <img width="1885" height="1101" alt="pinnacle-studio-main-interface" src="https://github.com/user-attachments/assets/31c14b08-bc20-48be-9306-8c6b7d7b77ae" />
-![multi-track-editing-timeline-pinnacle](https://github.com/user-attachments/assets/6214d062-c11c-4d8d-9e03-ef46f2196b70)
-
 
 ## 🎯 Key Features
 ⚡ **Multi-Track Editing** – Arrange and layer video, audio, and graphics with ease.  
